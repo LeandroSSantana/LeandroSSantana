@@ -17,7 +17,7 @@ A passionate Android developer from Brasil
 
 📫 You can contact me through:
 * 🎯 Linkedin: https://www.linkedin.com/in/leandrosantana017/
-* 🎯 Email: leandrosantana403@gmai.com
+* 🎯 Email: leandrosantana403@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
