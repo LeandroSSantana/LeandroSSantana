@@ -16,7 +16,6 @@ A passionate Android developer from Brasil
 ⚡ Fun fact: I'm a personal trainer and graduate physical education teacher.
 
 📫 You can contact me through:
-* 🎯 Linkedin: https://www.linkedin.com/in/leandrosantana017/
 * 🎯 Email: leandrosantana403@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
