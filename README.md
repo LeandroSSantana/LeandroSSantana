@@ -1,5 +1,5 @@
 ## Hi 👋 
-## My name is Leandro Santana  
+## My name is Leandro
 A passionate Android developer from Brasil
 
  - 🎯 I have 1 year of experience in the IT sector;
