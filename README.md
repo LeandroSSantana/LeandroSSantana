@@ -6,12 +6,13 @@ A passionate Android developer from Brasil
  - 🎯 Mobile Android (current focus);
  - 🎯 I'm studying  analysis and development systems (at FATEC - Rio Preto)
 
- 🌱 I’m currently learning: Android Development (Java/Kotlin)
+ 🌱 I’m currently working/learning: Android Development (Java/Kotlin/Flutter)
 
 * MVVM;
 * Material Design;
 * Android Concepts;
 * Compose.
+* Flutter
 
 ⚡ Fun fact: I'm a personal trainer and graduate physical education teacher.
 
